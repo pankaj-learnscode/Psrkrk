@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pankaj Suman</h1>
-<h3 align="center">Cloud & DevOps Engineer | MERN Stack Developer | AWS | CI/CD | Automation</h3>
+<h3 align="center">Cloud & DevOps Engineer | AWS | Docker | Kubernetes | CI/CD | Automation</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=psrkrk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
