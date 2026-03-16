@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pankaj Suman</h1>
-<h3 align="center">Cloud & DevOps Engineer | AWS | Docker | Kubernetes | CI/CD | Automation</h3>
+<h3 align="center">Cloud & DevOps Engineer | MERN Stack Developer | AWS | CI/CD | Automation</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=psrkrk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -7,29 +7,28 @@
 
 ---
 
-## ☁️ About Me  
+## 🚀 About Me  
 
-🚀 Passionate **Cloud & DevOps Engineer** focused on building scalable and automated infrastructure.
-
-- 🔭 Currently working on **CI/CD and Cloud Deployment Projects**
-- ☁️ Working with **AWS Cloud Infrastructure**
+- ☁️ Passionate **Cloud & DevOps Engineer**
+- 🔭 Currently working on **Chat Application & DevOps Projects**
+- ⚙️ Building **CI/CD pipelines using Jenkins**
 - 🐳 Containerizing applications using **Docker**
-- ⚙️ Building **CI/CD pipelines with Jenkins**
-- 🏗️ Automating infrastructure using **Terraform**
+- 🏗️ Automating infrastructure with **Terraform**
 - 🤖 Learning **Ansible for configuration management**
-- 🐧 Strong experience with **Linux system administration**
+- 🐧 Experienced with **Linux System Administration**
+- 💻 Also experienced in **MERN Stack Development**
 - 📫 Reach me at **pankajsuman806041@gmail.com**
 
 ---
 
-## 🛠️ DevOps & Cloud Tech Stack  
+# ☁️ DevOps & Cloud Stack
 
-### ☁️ Cloud
+### Cloud
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/>
 </p>
 
-### ⚙️ DevOps Tools
+### DevOps Tools
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="50" height="50"/>
@@ -38,18 +37,41 @@
 <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" width="50" height="50"/>
 </p>
 
-### 💻 Programming / Scripting
+### Systems & Tools
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50" height="50"/>
-</p>
-
-### 🧰 Tools & Platforms
-<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50"/>
+</p>
+
+---
+
+# 💻 Development Tech Stack
+
+### Languages
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50"/>
+</p>
+
+### Frontend
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/>
+</p>
+
+### Backend & Database
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50"/>
 </p>
 
 ---
@@ -57,15 +79,15 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=psrkrk&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=psrkrk&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psrkrk&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=psrkrk&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=psrkrk&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=psrkrk&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -88,4 +110,4 @@
 
 ---
 
-⭐ **DevOps is not just a toolset, it's a culture of automation, collaboration and continuous improvement.**
+⭐ **DevOps is about automation, scalability and continuous improvement.**
