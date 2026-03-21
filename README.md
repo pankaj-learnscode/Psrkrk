@@ -10,7 +10,7 @@
 ## 🚀 About Me  
 
 - ☁️ Passionate **Cloud & DevOps Engineer**
-- 🔭 Currently working on **Chat Application & DevOps Projects**
+- 🔭 Currently working on **e-commerce website & DevOps Projects**
 - ☁️ Deploying applications on **AWS (EC2, S3, IAM, VPC)**
 - ⚙️ Building **CI/CD pipelines using Jenkins**
 - 🐳 Containerizing applications using **Docker**
